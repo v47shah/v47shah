@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidit</h1>
 <h3 align="center">Software and Data Science enthusiast studying at the University of Waterloo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v47shah&label=Profile%20views&color=0e75b6&style=flat" alt="v47shah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v47shah" alt="v47shah" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vidit-shah-5032a7202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidit-shah-5032a7202" height="30" width="40" /></a>
@@ -17,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v47shah&show_icons=true&locale=en" alt="v47shah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v47shah&" alt="v47shah" /></p>
