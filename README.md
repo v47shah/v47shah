@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidit</h1>
-<h3 align="center">Software and Data Science enthusiast studying at the University of Waterloo</h3>
+<h3 align="center">Machine Learning and Data Science enthusiast studying at the University of Waterloo</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
